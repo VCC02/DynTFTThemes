@@ -1,0 +1,6 @@
+CL_DynTFTMessageBox_LightEdge = CL_GREENCHARCOAL01;
+CL_DynTFTMessageBox_DarkEdge = CL_GREENCHARCOAL08;
+CL_DynTFTMessageBox_Background = CL_GREENCHARCOAL09;
+CL_DynTFTMessageBox_TitleBar = CL_GREENCHARCOAL08;
+CL_DynTFTMessageBox_MessageFont = CL_GREENCHARCOAL11;
+CL_DynTFTMessageBox_TitleFont = CL_GREENCHARCOAL01;

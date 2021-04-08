@@ -1,0 +1,6 @@
+CL_DynTFTButton_LightEdge = CL_GREENCHARCOAL11;
+CL_DynTFTButton_DarkEdge = CL_GREENCHARCOAL12;
+CL_DynTFTButton_FocusRectangle = CL_GREENCHARCOAL05;
+CL_DynTFTButton_Background = CL_GREENCHARCOAL07;
+CL_DynTFTButton_EnabledFont = CL_GREENCHARCOAL13;
+CL_DynTFTButton_DisabledFont = CL_GREENCHARCOAL03;

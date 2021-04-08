@@ -1,0 +1,4 @@
+CL_DynTFTVirtualKeyboard_Border = CL_BLUECHARCOAL08;
+CL_DynTFTVirtualKeyboard_Background = CL_BLUECHARCOAL07;
+CL_DynTFTVirtualKeyboard_EnabledKeyDrawing = CL_BLUECHARCOAL13;
+CL_DynTFTVirtualKeyboard_DisabledKeyDrawing = CL_BLUECHARCOAL01;

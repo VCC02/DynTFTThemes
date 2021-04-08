@@ -1,0 +1,3 @@
+CL_DynTFTScrollBar_EnabledBackground = CL_GREENCHARCOAL04;
+CL_DynTFTScrollBar_DisabledBackground = CL_GREENCHARCOAL05;
+CL_DynTFTScrollBar_PanelBackground = CL_GREENCHARCOAL05;

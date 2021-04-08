@@ -1,0 +1,11 @@
+CL_DynTFTCheckBox_LightEdge = CL_BLUECHARCOAL06;
+CL_DynTFTCheckBox_DarkEdge = CL_BLUECHARCOAL08;
+CL_DynTFTCheckBox_LightDarkEdge = CL_BLUECHARCOAL05;
+CL_DynTFTCheckBox_DarkDarkEdge = CL_DARKGRAY;
+CL_DynTFTCheckBox_EnabledBox = CL_BLUECHARCOAL05;
+CL_DynTFTCheckBox_DisabledBox = CL_BLUECHARCOAL10;
+CL_DynTFTCheckBox_FocusRectangle = CL_BLUECHARCOAL05;
+CL_DynTFTCheckBox_Background = CL_BLUECHARCOAL02;
+CL_DynTFTCheckBox_Tick = CL_BLUECHARCOAL13;
+CL_DynTFTCheckBox_EnabledFont = CL_BLUECHARCOAL13;
+CL_DynTFTCheckBox_DisabledFont = CL_BLUECHARCOAL03;

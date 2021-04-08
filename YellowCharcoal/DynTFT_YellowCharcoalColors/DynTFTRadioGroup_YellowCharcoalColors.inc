@@ -1,0 +1,4 @@
+CL_DynTFTRadioGroup_Background = CL_YELLOWCHARCOAL02;
+CL_DynTFTRadioGroup_EnabledFont = CL_YELLOWCHARCOAL12;
+CL_DynTFTRadioGroup_DisabledFont = CL_YELLOWCHARCOAL01;
+CL_DynTFTRadioGroup_Border = CL_YELLOWCHARCOAL05;

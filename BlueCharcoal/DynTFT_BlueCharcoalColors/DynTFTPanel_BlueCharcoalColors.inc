@@ -1,0 +1,6 @@
+CL_DynTFTPanel_LightEdge = CL_BLUECHARCOAL11;
+CL_DynTFTPanel_DarkEdge = CL_BLUECHARCOAL12;
+CL_DynTFTPanel_FocusRectangle = CL_BLUECHARCOAL05;
+CL_DynTFTPanel_Background = CL_BLUECHARCOAL07;
+CL_DynTFTPanel_EnabledFont = CL_BLUECHARCOAL13;
+CL_DynTFTPanel_DisabledFont = CL_BLUECHARCOAL03;

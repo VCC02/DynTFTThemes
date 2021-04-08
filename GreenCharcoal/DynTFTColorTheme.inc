@@ -1,0 +1,47 @@
+{   DynTFT  - graphic components for microcontrollers
+    Copyright (C) 2017 VCC
+    release date: 29 Dec 2017
+    author: VCC
+
+    This file is part of DynTFT project.
+
+    DynTFT is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published by
+    the Free Software Foundation, version 3 of the License.
+
+    DynTFT is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public License
+    along with DynTFT, in COPYING.LESSER file.
+    If not, see <http://www.gnu.org/licenses/>.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+    DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+    OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+}
+
+  {$I DynTFT_GreenCharcoalColors\DynTFTArrowButton_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTButton_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTCheckBox_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTEdit_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTItems_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTKeyButton_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTLabel_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTListBox_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTMessageBox_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTPanel_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTProgressBar_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTRadioButton_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTRadioGroup_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTScreen_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTScrollBar_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTTabButton_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTTrackBar_GreenCharcoalColors.inc}
+  {$I DynTFT_GreenCharcoalColors\DynTFTVirtualKeyboard_GreenCharcoalColors.inc}

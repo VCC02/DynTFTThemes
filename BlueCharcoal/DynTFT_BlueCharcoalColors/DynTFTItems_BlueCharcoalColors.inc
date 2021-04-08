@@ -1,0 +1,8 @@
+CL_DynTFTItems_DarkEdge = CL_BLUECHARCOAL08;
+CL_DynTFTItems_FocusRectangle = CL_BLUECHARCOAL09;
+CL_DynTFTItems_UnFocusRectangle = CL_BLUECHARCOAL08;
+CL_DynTFTItems_EnabledFont = CL_BLUECHARCOAL13;
+CL_DynTFTItems_DisabledFont = CL_BLUECHARCOAL01;
+CL_DynTFTItems_Border = CL_BLUECHARCOAL05;
+CL_DynTFTItems_Background = CL_BLUECHARCOAL08;
+CL_DynTFTItems_SelectedItem = CL_BLUECHARCOAL16;

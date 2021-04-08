@@ -1,0 +1,4 @@
+CL_DynTFTEdit_Border = CL_REDCHARCOAL08;
+CL_DynTFTEdit_Background = CL_REDCHARCOAL07;
+CL_DynTFTEdit_EnabledFont = CL_REDCHARCOAL13;
+CL_DynTFTEdit_DisabledFont = CL_REDCHARCOAL03;

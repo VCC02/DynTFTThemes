@@ -1,0 +1,3 @@
+CL_DynTFTLabel_Background = CL_BLUECHARCOAL02;
+CL_DynTFTLabel_EnabledFont = CL_BLUECHARCOAL13;
+CL_DynTFTLabel_DisabledFont = CL_BLUECHARCOAL03;

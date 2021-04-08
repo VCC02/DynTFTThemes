@@ -1,0 +1,1 @@
+CL_DynTFTListBox_Border = CL_LEMONCHARCOAL08;

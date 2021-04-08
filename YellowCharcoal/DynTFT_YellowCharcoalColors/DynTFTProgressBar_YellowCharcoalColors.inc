@@ -1,0 +1,4 @@
+CL_DynTFTProgressBar_Progress = CL_YELLOWCHARCOAL13;
+CL_DynTFTProgressBar_Background = CL_YELLOWCHARCOAL09;
+CL_DynTFTProgressBar_LightEdge = CL_YELLOWCHARCOAL15;
+CL_DynTFTProgressBar_DarkEdge = CL_YELLOWCHARCOAL11;

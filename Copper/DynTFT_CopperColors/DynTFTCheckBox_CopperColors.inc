@@ -1,0 +1,11 @@
+CL_DynTFTCheckBox_LightEdge = CL_COPPER01;
+CL_DynTFTCheckBox_DarkEdge = CL_COPPER08;
+CL_DynTFTCheckBox_LightDarkEdge = CL_COPPER02;
+CL_DynTFTCheckBox_DarkDarkEdge = CL_COPPER14;
+CL_DynTFTCheckBox_EnabledBox = CL_COPPER05;
+CL_DynTFTCheckBox_DisabledBox = CL_COPPER10;
+CL_DynTFTCheckBox_FocusRectangle = CL_COPPER08;
+CL_DynTFTCheckBox_Background = CL_COPPER06;
+CL_DynTFTCheckBox_Tick = CL_COPPER13;
+CL_DynTFTCheckBox_EnabledFont = CL_COPPER13;
+CL_DynTFTCheckBox_DisabledFont = CL_COPPER01;
