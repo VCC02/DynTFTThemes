@@ -1,0 +1,15 @@
+[Files]
+ProjectIncSrcFolder=D:\DynTFTThemes\System\DynTFT_SysColors
+DynTFTColorThemeInc=D:\DynTFTThemes\System\DynTFTColorTheme.inc
+
+[Names]
+ComponentNamePrefix=DynTFT
+ComponentNameSuffix=_SysColors.inc
+SavingThemePrefix=DynTFT
+ThemeName=System
+
+[Options]
+ColorListStorage=0
+
+[Colors]
+UserColorCount=0
