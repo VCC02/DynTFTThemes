@@ -36,7 +36,7 @@
     OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 }
 
-CL_DynTFTVirtualKeyboardX2_Border = CL_YELLOWCHARCOAL08;
-CL_DynTFTVirtualKeyboardX2_Background = CL_YELLOWCHARCOAL07;
-CL_DynTFTVirtualKeyboardX2_EnabledKeyDrawing = CL_YELLOWCHARCOAL13;
-CL_DynTFTVirtualKeyboardX2_DisabledKeyDrawing = CL_YELLOWCHARCOAL01;
+CL_DynTFTVirtualKeyboardX2_Border = CL_LAVA08;
+CL_DynTFTVirtualKeyboardX2_Background = CL_LAVA10;
+CL_DynTFTVirtualKeyboardX2_EnabledKeyDrawing = CL_LAVA08;  //CL_YELLOW
+CL_DynTFTVirtualKeyboardX2_DisabledKeyDrawing = CL_LAVA04;
