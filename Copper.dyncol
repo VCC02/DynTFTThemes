@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Copper\DynTFT_CopperColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Copper\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Copper\DynTFT_CopperColors
+DynTFTColorThemeInc=$SelfDynColDir$\Copper\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

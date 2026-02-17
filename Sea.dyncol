@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Sea\DynTFT_SeaColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Sea\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Sea\DynTFT_SeaColors
+DynTFTColorThemeInc=$SelfDynColDir$\Sea\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Sand\DynTFT_SandColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Sand\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Sand\DynTFT_SandColors
+DynTFTColorThemeInc=$SelfDynColDir$\Sand\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

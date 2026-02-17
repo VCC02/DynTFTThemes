@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Aurora\DynTFT_AuroraColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Aurora\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Aurora\DynTFT_AuroraColors
+DynTFTColorThemeInc=$SelfDynColDir$\Aurora\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

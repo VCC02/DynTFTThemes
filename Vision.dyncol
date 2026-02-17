@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Vision\DynTFT_VisionColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Vision\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Vision\DynTFT_VisionColors
+DynTFTColorThemeInc=$SelfDynColDir$\Vision\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

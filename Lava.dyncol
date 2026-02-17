@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Lava\DynTFT_LavaColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Lava\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Lava\DynTFT_LavaColors
+DynTFTColorThemeInc=$SelfDynColDir$\Lava\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Matrix\DynTFT_MatrixColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Matrix\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Matrix\DynTFT_MatrixColors
+DynTFTColorThemeInc=$SelfDynColDir$\Matrix\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

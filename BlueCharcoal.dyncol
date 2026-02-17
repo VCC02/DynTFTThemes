@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\BlueCharcoal\DynTFT_BlueCharcoalColors
-DynTFTColorThemeInc=D:\DynTFTThemes\BlueCharcoal\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\BlueCharcoal\DynTFT_BlueCharcoalColors
+DynTFTColorThemeInc=$SelfDynColDir$\BlueCharcoal\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

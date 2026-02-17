@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Grass\DynTFT_GrassColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Grass\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Grass\DynTFT_GrassColors
+DynTFTColorThemeInc=$SelfDynColDir$\Grass\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

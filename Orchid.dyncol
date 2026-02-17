@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Orchid\DynTFT_OrchidColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Orchid\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Orchid\DynTFT_OrchidColors
+DynTFTColorThemeInc=$SelfDynColDir$\Orchid\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT

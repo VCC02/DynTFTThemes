@@ -1,6 +1,6 @@
 [Files]
-ProjectIncSrcFolder=D:\DynTFTThemes\Industrial\DynTFT_IndustrialColors
-DynTFTColorThemeInc=D:\DynTFTThemes\Industrial\DynTFTColorTheme.inc
+ProjectIncSrcFolder=$SelfDynColDir$\Industrial\DynTFT_IndustrialColors
+DynTFTColorThemeInc=$SelfDynColDir$\Industrial\DynTFTColorTheme.inc
 
 [Names]
 ComponentNamePrefix=DynTFT
